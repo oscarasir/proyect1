@@ -20,6 +20,8 @@ and open the template in the editor.
         
         echo $seguimos;
         
+        echo "Escrito desde la pagina de git";
+        
         
         ?>
     </body>

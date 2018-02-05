@@ -15,6 +15,12 @@ and open the template in the editor.
         
         echo "Primera linea del proyecto";
         
+        
+        $seguimos="seguimos trabajando";
+        
+        echo $seguimos;
+        
+        
         ?>
     </body>
 </html>
